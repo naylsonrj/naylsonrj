@@ -28,12 +28,14 @@
 </div>
   
 ##
-  
-<div> 
-  <a href="https://www.linkedin.com/in/naylsoncosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center">
+  <img align="center" alt="Naylson Costa" width="300" height="456" style="border-radius:50px;" src="https://i.picasion.com/pic92/a8af93cdbb94e67188dc5b950f3f637a.gif">
+  </div>
 
-  <img align="right" alt="Adude.pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/a8af93cdbb94e67188dc5b950f3f637a.gif">
-  
-  ![Snake animation](https://github.com/naylsonrj/blob/output/github-contribution-grid-snake.svg)
-  
+##
+
+<a href="https://www.linkedin.com/in/naylsoncosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+![Snake animation](https://github.com/naylsonrj/blob/output/github-contribution-grid-snake.svg)
+
 </div>
