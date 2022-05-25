@@ -1,6 +1,8 @@
 # I'm Naylson Costa
 
-**I´m a _Front-End_ developer Jr** that loves to learn new things! .
+Brazilian front-end developer passionate to learn new technologies and create stuff.
+Currently IT undergrad student at Estácio de Sá and working as a junior dev with Angular, TypeScript, PHP, NodeJS, SQLServer, HTML, CSS, Boostrap, Gitlab and RESTful API’s development.
+Also a police officer for the last 11 years working both in the field and on administrative roles.
 <br><br>
 
 <div align="center">
