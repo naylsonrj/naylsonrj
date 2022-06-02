@@ -31,13 +31,14 @@ Also a police officer for the last 11 years working both in the field and on adm
   
 ##
 <div align="center">
+  
+<a href="https://www.linkedin.com/in/naylsoncosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:naylsonrj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
+
 <img align="center" alt="Naylson Costa" width="300" height="456" style="border-radius:50px;" src="https://i.picasion.com/pic92/a8af93cdbb94e67188dc5b950f3f637a.gif">
 </div>
 
-<div align="center">
-<a href="https://www.linkedin.com/in/naylsoncosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:naylsonrj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
 
 ##
 
