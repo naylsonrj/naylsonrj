@@ -1,7 +1,10 @@
 # I'm Naylson Costa
 
 Brazilian front-end developer passionate to learn new technologies and create stuff.<br>
+
 Currently IT undergrad student at Estácio de Sá and working as a junior dev with Angular, TypeScript, PHP, NodeJS, SQLServer, HTML, CSS, Boostrap, Gitlab and RESTful API’s development.
+<br>
+
 Also a police officer for the last 11 years working both in the field and on administrative roles.
 <br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnaylsonrj&count_bg=%236D07C0&title_bg=%23000000&icon=&icon_color=%4716A3&title=Visualiza%C3%A7%C3%B5es&edge_flat=false)](https://github.com/naylsonrj)
