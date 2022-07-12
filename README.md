@@ -32,7 +32,7 @@ Also a police officer for the last 11 years working both in the field and on adm
 <!-- <img align="center" alt="Laravel" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"> -->  
   <img align="center" alt="Sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 
-</div>
+</div><br>
   
 ##
 <div align="center">
