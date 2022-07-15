@@ -43,7 +43,6 @@ Also a police officer for the last 11 years working both in the field and on adm
 <!-- <img align="center" alt="Naylson Costa" width="300" height="456" style="border-radius:50px;" src="https://i.picasion.com/pic92/a8af93cdbb94e67188dc5b950f3f637a.gif"> -->
 </div>
 <br>
-##
 
 ![snake gif](https://github.com/naylsonrj/naylsonrj/blob/output/github-contribution-grid-snake.svg)
 
