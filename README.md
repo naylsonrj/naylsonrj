@@ -1,7 +1,7 @@
-# I'm Naylson Costa
+# I'm Naylson Costa 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnaylsonrj&count_bg=%236D07C0&title_bg=%23000000&icon=&icon_color=%4716A3&title=Visualiza%C3%A7%C3%B5es&edge_flat=false)](https://github.com/naylsonrj)
-
+<br>
 <div align="center">
   <a href="https://github.com/naylsonrj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naylsonrj&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
